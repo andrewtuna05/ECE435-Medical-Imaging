@@ -1,3 +1,3 @@
 # ECE435 - Medical Imaging
 
-Professor Frost
+Spring 2026 - Professor Frost
